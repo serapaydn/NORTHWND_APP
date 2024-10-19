@@ -1,0 +1,6 @@
+C:\Users\serap\source\repos\NorthWind_windows_application\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\serap\source\repos\NorthWind_windows_application\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\serap\source\repos\NorthWind_windows_application\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\serap\source\repos\NorthWind_windows_application\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\serap\source\repos\NorthWind_windows_application\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+C:\Users\serap\source\repos\NorthWind_windows_application\DataAccessLayer\obj\Debug\DataAccessLayer.pdb

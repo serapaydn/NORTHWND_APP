@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\serap\\source\\repos\\NorthWind_windows_application\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B3B73E8B-7462-40BE-9745-79575D72751A}|NorthWind_windows_application\\NorthWind_windows_application.csproj|c:\\users\\serap\\source\\repos\\northwind_windows_application\\northwind_windows_application\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B3B73E8B-7462-40BE-9745-79575D72751A}|NorthWind_windows_application\\NorthWind_windows_application.csproj|solutionrelative:northwind_windows_application\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E23B9AA-DD72-4330-8578-0619DFB2BD71}|DataAccessLayer\\DataAccessLayer.csproj|c:\\users\\serap\\source\\repos\\northwind_windows_application\\dataaccesslayer\\datamodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E23B9AA-DD72-4330-8578-0619DFB2BD71}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\datamodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DataModel.cs",
+              "DocumentMoniker": "C:\\Users\\serap\\source\\repos\\NorthWind_windows_application\\DataAccessLayer\\DataModel.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\DataModel.cs",
+              "ToolTip": "C:\\Users\\serap\\source\\repos\\NorthWind_windows_application\\DataAccessLayer\\DataModel.cs",
+              "RelativeToolTip": "DataAccessLayer\\DataModel.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T07:26:06.266Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\serap\\source\\repos\\NorthWind_windows_application\\NorthWind_windows_application\\MainForm.cs",
+              "RelativeDocumentMoniker": "NorthWind_windows_application\\MainForm.cs",
+              "ToolTip": "C:\\Users\\serap\\source\\repos\\NorthWind_windows_application\\NorthWind_windows_application\\MainForm.cs [Design]",
+              "RelativeToolTip": "NorthWind_windows_application\\MainForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T13:36:13.943Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
